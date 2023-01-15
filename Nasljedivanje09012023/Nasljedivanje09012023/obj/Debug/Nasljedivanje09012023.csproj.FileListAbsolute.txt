@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\Nasljedivanje09012023\Nasljedivanje09012023\bin\Debug\Nasljedivanje09012023.exe.config
+C:\Users\PC\source\repos\Nasljedivanje09012023\Nasljedivanje09012023\bin\Debug\Nasljedivanje09012023.exe
+C:\Users\PC\source\repos\Nasljedivanje09012023\Nasljedivanje09012023\bin\Debug\Nasljedivanje09012023.pdb
+C:\Users\PC\source\repos\Nasljedivanje09012023\Nasljedivanje09012023\obj\Debug\Nasljedivanje09012023.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Nasljedivanje09012023\Nasljedivanje09012023\obj\Debug\Nasljedivanje09012023.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Nasljedivanje09012023\Nasljedivanje09012023\obj\Debug\Nasljedivanje09012023.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Nasljedivanje09012023\Nasljedivanje09012023\obj\Debug\Nasljedivanje09012023.exe
+C:\Users\PC\source\repos\Nasljedivanje09012023\Nasljedivanje09012023\obj\Debug\Nasljedivanje09012023.pdb
